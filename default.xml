@@ -22,7 +22,9 @@
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
   <project path="external/droidmedia" name="sailfishos/droidmedia" revision="master" />
 
+<!--
   <project path="android" name="CyanogenMod/android" />
+-->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
 <!--
