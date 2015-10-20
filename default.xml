@@ -30,6 +30,7 @@
   <project name="CyanogenMod/android_external_genext2fs" path="external/genext2fs"/>
   <project name="CyanogenMod/android_external_giflib" path="external/giflib"/>
   <project name="CyanogenMod/android_external_harfbuzz" path="external/harfbuzz"/>
+  <project name="CyanogenMod/android_external_icu4c" path="external/icu4c"/>
   <project name="CyanogenMod/android_external_jpeg" path="external/jpeg"/>
   <project name="CyanogenMod/android_external_junit" path="external/junit"/>
   <project name="CyanogenMod/android_external_kernel-headers" path="external/kernel-headers"/>
