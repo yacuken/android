@@ -21,6 +21,7 @@
   <project path="hybris/hybris-boot" name="mer-hybris/hybris-boot" revision="master"/>
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
   <project path="external/droidmedia" name="sailfishos/droidmedia" revision="master" />
+  <project path="external/audioflingerglue" name="mer-hybris/audioflingerglue" revision="master" />
 
 <!--
   <project path="android" name="CyanogenMod/android" />
