@@ -124,7 +124,9 @@
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/eigen" name="platform/external/eigen" groups="pdk-cw-fs" remote="aosp" />
+-->
   <project path="external/elfutils" name="platform/external/elfutils" groups="pdk" remote="aosp" />
+<!--
   <project path="external/emma" name="platform/external/emma" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/esd" name="platform/external/esd" groups="pdk-cw-fw" remote="aosp" />
 -->
