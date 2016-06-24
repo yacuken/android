@@ -57,7 +57,7 @@
   <project name="CyanogenMod/android_external_yaffs2" path="external/yaffs2"/>
   <project name="CyanogenMod/android_external_zlib" path="external/zlib"/>
   <project name="CyanogenMod/android_frameworks_av" path="frameworks/av"/>
-  <project name="CyanogenMod/android_frameworks_base" path="frameworks/base"/>
+  <project name="mer-hybris/android_frameworks_base" path="frameworks/base" revision="hybris-11.0-44S"/>
   <project name="CyanogenMod/android_frameworks_opt_emoji" path="frameworks/opt/emoji"/>
   <project name="CyanogenMod/android_hardware_akm" path="hardware/akm"/>
   <project name="CyanogenMod/android_hardware_broadcom_libbt" path="hardware/broadcom/libbt"/>
